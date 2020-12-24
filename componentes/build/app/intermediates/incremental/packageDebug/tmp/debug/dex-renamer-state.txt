@@ -1,4 +1,4 @@
-#Mon Dec 14 13:04:21 CST 2020
+#Thu Dec 24 08:32:55 CST 2020
 base.0=C\:\\Users\\MScorp\\Documents\\Android\\Flutter\\componentes\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
